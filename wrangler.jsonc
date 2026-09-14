@@ -1,0 +1,9 @@
+{
+  // Amen（阿祈）官方網站 — 純靜態站，無 Worker 腳本，僅用靜態資產託管
+  "name": "amen-website",
+  "compatibility_date": "2026-09-14",
+  "assets": {
+    "directory": "./",
+    "html_handling": "auto-trailing-slash"
+  }
+}
