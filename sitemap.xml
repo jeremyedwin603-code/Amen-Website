@@ -33,16 +33,4 @@
     <xhtml:link rel="alternate" hreflang="ko" href="https://amen-web.pages.dev/index-ko"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://amen-web.pages.dev/"/>
   </url>
-  <url>
-    <loc>https://amen-web.pages.dev/privacy-zh-Hant</loc>
-  </url>
-  <url>
-    <loc>https://amen-web.pages.dev/privacy-en</loc>
-  </url>
-  <url>
-    <loc>https://amen-web.pages.dev/terms-zh-Hant</loc>
-  </url>
-  <url>
-    <loc>https://amen-web.pages.dev/terms-en</loc>
-  </url>
 </urlset>
